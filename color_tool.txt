@@ -1,0 +1,86 @@
+03/13/2023 21:00:40 
+Index: 331
+sequence1: 
+sequence2: 
+No differnece between these two sequences
+Number of differences: 0
+
+03/13/2023 21:01:39 org_delta
+Index: 331
+sequence1: NITNLCPFGEVFNATKFPSVYAWERKKISNCVADYSVLYNSTFFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMGCVLAWNTRNIDATSTGNYNYKYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLNAPATVCGP
+sequence2: NITNLCPFGEVFNATRFASVYAWNRKRISNCVADYSVLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYRYRLFRKSNLKPFERDISTEIYQAGSKPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGP
+select #1/E:346; color sel cyan; show sel atoms;style sel ball
+select #2/A:346; color sel magenta; show sel atoms;style sel ball
+select #1/E:348; color sel cyan; show sel atoms;style sel ball
+select #2/A:348; color sel magenta; show sel atoms;style sel ball
+select #1/E:354; color sel cyan; show sel atoms;style sel ball
+select #2/A:354; color sel magenta; show sel atoms;style sel ball
+select #1/E:357; color sel cyan; show sel atoms;style sel ball
+select #2/A:357; color sel magenta; show sel atoms;style sel ball
+select #1/E:372; color sel cyan; show sel atoms;style sel ball
+select #2/A:372; color sel magenta; show sel atoms;style sel ball
+select #1/E:373; color sel cyan; show sel atoms;style sel ball
+select #2/A:373; color sel magenta; show sel atoms;style sel ball
+select #1/E:384; color sel cyan; show sel atoms;style sel ball
+select #2/A:384; color sel magenta; show sel atoms;style sel ball
+select #1/E:393; color sel cyan; show sel atoms;style sel ball
+select #2/A:393; color sel magenta; show sel atoms;style sel ball
+select #1/E:402; color sel cyan; show sel atoms;style sel ball
+select #2/A:402; color sel magenta; show sel atoms;style sel ball
+select #1/E:403; color sel cyan; show sel atoms;style sel ball
+select #2/A:403; color sel magenta; show sel atoms;style sel ball
+select #1/E:406; color sel cyan; show sel atoms;style sel ball
+select #2/A:406; color sel magenta; show sel atoms;style sel ball
+select #1/E:417; color sel cyan; show sel atoms;style sel ball
+select #2/A:417; color sel magenta; show sel atoms;style sel ball
+select #1/E:430; color sel cyan; show sel atoms;style sel ball
+select #2/A:430; color sel magenta; show sel atoms;style sel ball
+select #1/E:434; color sel cyan; show sel atoms;style sel ball
+select #2/A:434; color sel magenta; show sel atoms;style sel ball
+select #1/E:438; color sel cyan; show sel atoms;style sel ball
+select #2/A:438; color sel magenta; show sel atoms;style sel ball
+select #1/E:439; color sel cyan; show sel atoms;style sel ball
+select #2/A:439; color sel magenta; show sel atoms;style sel ball
+select #1/E:441; color sel cyan; show sel atoms;style sel ball
+select #2/A:441; color sel magenta; show sel atoms;style sel ball
+select #1/E:443; color sel cyan; show sel atoms;style sel ball
+select #2/A:443; color sel magenta; show sel atoms;style sel ball
+select #1/E:444; color sel cyan; show sel atoms;style sel ball
+select #2/A:444; color sel magenta; show sel atoms;style sel ball
+select #1/E:445; color sel cyan; show sel atoms;style sel ball
+select #2/A:445; color sel magenta; show sel atoms;style sel ball
+select #1/E:446; color sel cyan; show sel atoms;style sel ball
+select #2/A:446; color sel magenta; show sel atoms;style sel ball
+select #1/E:452; color sel cyan; show sel atoms;style sel ball
+select #2/A:452; color sel magenta; show sel atoms;style sel ball
+select #1/E:478; color sel cyan; show sel atoms;style sel ball
+select #2/A:478; color sel magenta; show sel atoms;style sel ball
+select #1/E:519; color sel cyan; show sel atoms;style sel ball
+select #2/A:519; color sel magenta; show sel atoms;style sel ball
+Number of differences: 24
+
+03/13/2023 21:10:21 org_omicron
+Index: 334
+sequence1: NLCPFGEVFNATKFPSVYAWERKKISNCVADYSVLYNSTFFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMGCVLAWNTRNIDATSTGNYNYKYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLNAP
+sequence2: NLCPFGEVFNATKFPSVYAWERKKISNCVADYSVLYNSTFFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMGCVLAWNTRNIDATSTGNYNYKYRLFRKSNLKPFERDISTEIYQAGSTPCNGVAGFNCYFPLRSYSFRPTYGVGHQPYRVVVLSFELTVCG
+select #1/E:484; color sel cyan; show sel atoms;style sel ball
+select #2/E:484; color sel magenta; show sel atoms;style sel ball
+select #1/E:493; color sel cyan; show sel atoms;style sel ball
+select #2/E:493; color sel magenta; show sel atoms;style sel ball
+select #1/E:496; color sel cyan; show sel atoms;style sel ball
+select #2/E:496; color sel magenta; show sel atoms;style sel ball
+select #1/E:498; color sel cyan; show sel atoms;style sel ball
+select #2/E:498; color sel magenta; show sel atoms;style sel ball
+select #1/E:501; color sel cyan; show sel atoms;style sel ball
+select #2/E:501; color sel magenta; show sel atoms;style sel ball
+select #1/E:505; color sel cyan; show sel atoms;style sel ball
+select #2/E:505; color sel magenta; show sel atoms;style sel ball
+select #1/E:518; color sel cyan; show sel atoms;style sel ball
+select #2/E:518; color sel magenta; show sel atoms;style sel ball
+select #1/E:519; color sel cyan; show sel atoms;style sel ball
+select #2/E:519; color sel magenta; show sel atoms;style sel ball
+select #1/E:520; color sel cyan; show sel atoms;style sel ball
+select #2/E:520; color sel magenta; show sel atoms;style sel ball
+select #1/E:521; color sel cyan; show sel atoms;style sel ball
+select #2/E:521; color sel magenta; show sel atoms;style sel ball
+Number of differences: 10
