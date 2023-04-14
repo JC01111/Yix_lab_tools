@@ -33,11 +33,11 @@ else:
         k += 1
         if sequence1[i] != sequence2[i]:
             count += 1
-            file.write(str("select #" + chain_id1 + ":" + str(k + index) + ";" + " color sel " + color1 + "; show sel atoms;" + "style sel " + style + "\n"))
-            file.write(str("select #" + chain_id2 + ":" + str(k + index) + ";" + " color sel " + color2 + "; show sel atoms;" + "style sel " + style + "\n"))
-            print(str("select #" + chain_id1 + ":" + str(k + index) + ";" + " color sel " + color1 + "; show sel atoms;" + "style sel " + style))
-            print(str("select #" + chain_id2 + ":" + str(k + index) + ";" + " color sel " + color2 + "; show sel atoms;" + "style sel " + style))
+            file.write(f"select #{chain_id1}:{k + index}; color sel {color1}; show sel atoms; style sel {style}\n")
+            file.write(f"select #{chain_id2}:{k + index}; color sel {color2}; show sel atoms; style sel {style}\n")
+            print(f"select #{chain_id1}:{k + index}; color sel {color1}; show sel atoms; style sel {style}")
+            print(f"select #{chain_id2}:{k + index}; color sel {color2}; show sel atoms; style sel {style}")
 
-print("Number of differences: " + str(count))
-file.write(f"Number of differences: {str(count)}\n\n")
+print(f"Number of differences: {count}")
+file.write(f"Number of differences: {count}\n\n")
 file.close()
