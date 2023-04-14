@@ -8,18 +8,17 @@ time = now.strftime("%m/%d/%Y %H:%M:%S")
 # Create file
 file = open("color_tool.txt", "a")
 #################Input##########################
-k = -1
-count = 0
 # Prompt for info
 chain_id1 = input("Chain_ID_1 (e.g, 1/A): ")
 chain_id2 = input("Chain_ID_2 (e.g, 1/A): ")
 color1 = input("Atom_color1: ")
 color2 = input("Atom_color2: ")
 style = input("Style of Atoms (ball): ")
-# Prompt for sequence and index
 index = int(input("Index: "))
 sequence1 = input("Sequence1: ")
 sequence2 = input("Sequence2: ")
+k = -1
+count = 0
 
 # Check if two sequences have the same length
 if len(sequence1) != len(sequence2):
